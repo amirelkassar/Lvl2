@@ -1,0 +1,12 @@
+.expense-item{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 3em;
+    margin-top: 2em;
+    border: 1px solid black;
+    border-radius: 25px;
+}
+.expense-item__title{
+    font-weight: 700;
+}
